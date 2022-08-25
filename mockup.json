@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Pro Plan Puppy 3kg",
+        "price": 14500,
+        "weigth": 3,
+        "sale": false
+    },
+    {
+        "title": "Royal Canin Puppy Small 3kg",
+        "price": 4500,
+        "weigth": 3,
+        "sale": true
+    }
+]
