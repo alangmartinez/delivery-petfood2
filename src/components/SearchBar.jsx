@@ -26,6 +26,8 @@ export default function SearchBar() {
           _placeholder={{ color: "blackAlpha.500", fontSize: 21 }}
           fontSize={21}
           autoFocus
+          paddingY={1}
+          paddingX={1}
         ></Input>
         <Icon as={BsSearch} cursor="pointer" color='gray.700' marginStart={2} w={5} h={5}></Icon>
       </HStack>
